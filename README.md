@@ -45,5 +45,4 @@ When input A changes from 0 to 1:
 
 Author
 
-Your Name# 2-1-decoder
-my fifth verilog project 
+Sravanthi 
